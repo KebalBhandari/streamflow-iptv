@@ -43,7 +43,7 @@ StreamFlow is a modern, premium web-based IPTV player built with React and TypeS
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/streamflow-iptv.git
+   git clone https://github.com/KebalBhandari/streamflow-iptv.git
    cd streamflow-iptv
    ```
 
@@ -59,7 +59,7 @@ StreamFlow is a modern, premium web-based IPTV player built with React and TypeS
    ```
 
 4. **Open in Browser**
-   Navigate to `http://localhost:5173` to view the app.
+   Navigate to `http://localhost:3000` to view the app.
 
 ## 📂 Project Structure
 
